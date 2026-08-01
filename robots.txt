@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eurotripexpert.buzz/sitemap.txt
